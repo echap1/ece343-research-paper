@@ -2,9 +2,9 @@
 
 ## Free Space Propogation:
 
-![graph](./free_space.gif)
+![graph](./images/free_space.gif)
 
 
 ## Interaction with Objects:
 
-![graph2](./objects.gif)
+![graph2](./images/objects.gif)
